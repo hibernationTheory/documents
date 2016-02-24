@@ -14,8 +14,8 @@
   - Codeschool course from Google
   - http://discover-devtools.codeschool.com/
 
-- Chrome Dev Tools Documentation
-  - https://developers.google.com/web/tools/chrome-devtools/
+- Chrome Dev Tools Documentation - Profiling Section
+  - https://developers.google.com/web/tools/chrome-devtools/profile
 
 - CSS Triggers
   - Excellent resource on the kind of performance effects that various CSS statements have.
